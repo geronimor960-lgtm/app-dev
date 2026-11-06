@@ -16,5 +16,4 @@
 * **Intense Battles:** High-stakes fights against powerful demons.
 * **Emotional Story:** Deep bonds between siblings and comrades.
 
----
-*Created for App Development Activity*<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/58702041-e35b-47a4-87b4-8185f28b5b52" />
+

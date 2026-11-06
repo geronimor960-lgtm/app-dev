@@ -1,4 +1,4 @@
-# My Favorite Anime: Demon Slayer
+# My Favorite Series: Demon Slayer
 
 > "No matter how weak or unworthy you feel, keep your heart burning, grit your teeth and move forward." – Kyojuro Rengoku
 
@@ -16,4 +16,14 @@
 * **Intense Battles:** High-stakes fights against powerful demons.
 * **Emotional Story:** Deep bonds between siblings and comrades.
 
+## Why I Like It
+* Very funny and entertaining scenes
+* Unexpected plot twists
+* Great chemistry between the characters
+* Unique and memorable storyline
+
+## Series Information
+* **Genre:** Action / Fantasy / Dark Fantasy
+* **Release Year:** 2019
+* **Director:** Haruo Sotozaki
 
